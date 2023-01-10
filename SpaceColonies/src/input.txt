@@ -1,0 +1,19 @@
+//test input file
+
+Danny Wang, 3, 3, 1, Planet1
+Sasha Tesla, 2, 2, 5, Planet2
+Lilla Alto, 4, 2, 1, Planet3
+Dewey Simpson, 3, 3, 3,
+Judy Corning, 1, 5, 3, Planet1
+Isis Resto, 2, 4, 4, Planet3
+Selma Mcnamee, 5, 4, 1, Planet1
+Margrett Murley, 3, 4, 5, Planet1
+Caitlin Bialek, 1, 4, 4, Planet3
+Jeannie Houle, 5, 2, 3, Planet3
+Sharilyn Zeno, 3, 3, 2, Planet3
+Niko zhang 4,3,2,Planet2
+Lisa Lee 3,3,3 planet1
+Mason Tesla 4,2,2 Planet3
+Sean Rose 2,2,5 Planet1
+Aileen Diana ,1,4,3, Planet2
+Ella Miller 2,4,4 Planet1

@@ -1,0 +1,5 @@
+//test planet file
+
+Planet1, 5, 3, 5, 10
+Planet2, 2, 5, 5, 8
+Planet3, 3, 3, 5, 9
